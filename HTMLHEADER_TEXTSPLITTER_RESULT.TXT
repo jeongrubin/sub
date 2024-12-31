@@ -1,0 +1,156 @@
+Chunk 1
+Content:
+순서 (Table of Contents)  
+프로필 (Profile)  
+프로필 (Profile)  
+약력 (About Me)  
+프로젝트 경험(Experiences)  
+보유 스킬 (Skill)  
+프로젝트 (Project)  
+학력 (Education)  
+전주대학교 인공지능 전공 학사  
+소셜 미디어 & 블로그 (Social & Blog)  
+커피챗 (Coffee Chat)  
+[준비 중] 템플릿을 pdf 형태로 바꾸는 법→  
+프로필 (Profile) 정수빈  
+프로필 (Profile)
+Metadata:
+{'Header 1': '이력서'}
+=====================
+Chunk 2
+Content:
+사람을 돕는 기술을 만드는 AI 개발자  
+연락처  
+010-2235-0671  
+이메일  
+rubin051123@gmail.com  
+포트폴리오
+Metadata:
+{'Header 1': '이력서', 'Header 2': '프로필 (Profile)'}
+=====================
+Chunk 3
+Content:
+약력 (About Me)
+Metadata:
+{'Header 1': '이력서'}
+=====================
+Chunk 4
+Content:
+AI 기술로 비즈니스 문제를 해결하는 데 열정을 가진 신입 AI 엔지니어입니다. 학부 프로젝트를 통해 YOLO 기반 화재 감지 모델을 설계하며, 딥러닝 모델의 데이터 전처리부터 배포까지의 전 과정을 경험했습니다. Python과 딥러닝 프레임워크(TensorFlow, PyTorch)에 능숙하며, 실질적인 가치를 창출하는 솔루션 개발을 목표로 하고 있습니다.
+Metadata:
+{'Header 1': '이력서', 'Header 2': '약력 (About Me)'}
+=====================
+Chunk 5
+Content:
+프로젝트 경험(Experiences)
+Metadata:
+{'Header 1': '이력서'}
+=====================
+Chunk 6
+Content:
+YOLO 기반 화재 및 연기 실시간 감지 시스템 개발|개인 프로젝  
+전주대학교 ∙ 2024.3 - 2024.6  
+OpenCV와 YOLOv5를 사용하여 화재 및 연기 감지 모델을 개발하고 실시간 모니터링 시스템 구현  
+1,000개 이상의 이미지 데이터셋을 전처리하고 모델을 학습시켜 감지 정확도 85% 달성  
+추론 속도를 20% 개선하여 실시간 대응 가능성 확보  
+머신러닝 기반 고객 이탈 예측 모델 개발| 개인 프로젝트  
+전주대학교 ∙ 2024.1 - 2024.3  
+Python과 scikit-learn을 사용해 고객 데이터를 분석하고 분류 모델 개발  
+Logistic Regression 및 Random Forest를 비교하여 최적의 모델 선택 (정확도 88%)  
+결과를 Matplotlib와 Seaborn으로 시각화해 보고서 작성  
+딥러닝을 활용한 이미지 분류 시스템 설계| 개인 프로젝트  
+전주대학교 ∙ 2023.9 - 2023.12
+Metadata:
+{'Header 1': '이력서', 'Header 2': '프로젝트 경험(Experiences)'}
+=====================
+Chunk 7
+Content:
+전주대학교 ∙ 2023.9 - 2023.12  
+CNN(Convolutional Neural Network) 모델을 설계해 다양한 이미지를 분류 (정확도 92%)  
+학습 데이터 증강(Augmentation) 기법을 적용하여 과적합 문제 해결  
+TensorFlow 기반의 모델을 구현하고 학습 결과를 시각화
+Metadata:
+{'Header 1': '이력서', 'Header 2': '프로젝트 경험(Experiences)'}
+=====================
+Chunk 8
+Content:
+보유 스킬 (Skill)
+Metadata:
+{'Header 1': '이력서'}
+=====================
+Chunk 9
+Content:
+보유 스킬NameDescriptionSkill LevelType제목 없음프로그래밍Python90%프로그래밍SQL40%프로그래밍Excel30%프로그래밍
+Metadata:
+{'Header 1': '이력서', 'Header 2': '보유 스킬 (Skill)'}
+=====================
+Chunk 10
+Content:
+프로젝트 (Project)
+Metadata:
+{'Header 1': '이력서'}
+=====================
+Chunk 11
+Content:
+프로젝트이름생성일스킬프로젝트 타입화재 감지@2024년 12월 31일 오전 10:38개인돈사 화재@2024년 12월 31일 오전 10:40개인
+Metadata:
+{'Header 1': '이력서', 'Header 2': '프로젝트 (Project)'}
+=====================
+Chunk 12
+Content:
+학력 (Education)
+Metadata:
+{'Header 1': '이력서'}
+=====================
+Chunk 13
+Content:
+전주대학교 인공지능 전공 학사  
+학점: 3.8 / 4.0수강 과목  
+인공지능 기초  
+머신러닝 기초 및 응용  
+딥러닝 이론 및 실습  
+데이터베이스 설계  
+자연어처리 기초  
+컴퓨터 비전  
+파이썬 프로그래밍  
+R 프로그래밍 및 데이터 분석  
+알고리즘 설계와 분석  
+소프트웨어 공학  
+빅데이터 처리 및 분석  
+비즈니스 분석 기초  
+IoT(사물인터넷)와 인공지능  
+클라우드 컴퓨팅과 AI  
+프로젝트 캡스톤 설계  
+2025년 2월 졸업 예정
+Metadata:
+{'Header 1': '이력서', 'Header 2': '학력 (Education)'}
+=====================
+Chunk 14
+Content:
+위로 돌아가기 →  
+소셜 미디어 & 블로그 (Social & Blog)커피챗 (Coffee Chat)
+Metadata:
+{'Header 1': '이력서'}
+=====================
+Chunk 15
+Content:
+티스토리 (tistory) → https://wuyt8807.tistory.com/  
+깃허브 (Github) → https://github.com/jeongrubin  
+커리어리 (Careerly) →  
+블로그 (Blog) →
+Metadata:
+{'Header 1': '이력서', 'Header 2': '소셜 미디어 & 블로그 (Social & Blog)'}
+=====================
+Chunk 16
+Content:
+온라인 커피챗을 할수 있는 기능을 추가해보세요.  
+☕ 이력서에서 커피챗 기능 추가하기 →📝 작성한 이력서 피드백 & 멘토링 받기 →
+Metadata:
+{'Header 1': '이력서', 'Header 2': '커피챗 (Coffee Chat)'}
+=====================
+Chunk 17
+Content:
+© datarichard의 모든 콘텐츠는 저작권법의 보호를 받으며, 무단 전재 복사 배포 등을 금지합니다.
+Metadata:
+{'Header 1': '이력서'}
+=====================
